@@ -26,8 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github]()
-- Live Site URL: [Live Site]()
+- Live Site URL: [Live Site](https://tytan01.github.io/order-summary-component-main/#)
 
 ## My process
 Firstly I create style.css file and link it with index.html. Secondly I added few things in CSS such as fonts, classes (flex). Then I started writing code.
